@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview:
-To use different algerithms to train and evaluate credit card risk with unbalanced classification problem.
+To use different algorithms to train and evaluate credit card risk with unbalanced classification problem.
 
 ## Results:
 Evaluated six models:
@@ -61,4 +61,4 @@ Not a good model for predicting high_risk because the f1 score shows a very low 
 
 
 ## Summary
-Non of the algorithms were very useful in predicting the high risk credit cards because of the low precision, however the Easy Ensemble Clasiffier might be useful to detect the high risk credit cards because of the high recall of .92 which shows a low number of false negetives depending on the thresholds set by the credit card company for the summary scores this might be useful. 
+None of the algorithms were very useful in predicting the high risk credit cards because of the low precision score, however the Easy Ensemble Clasiffier might be useful  because of the high recall of .92 which shows a low number of false negetives depending on the thresholds set by the credit card company for the summary scores. 
