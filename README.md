@@ -60,3 +60,5 @@ Easy Ensemble Classifier
 Not a good model for predicting high_risk because the f1 score shows a very low number( low precision is indicative of a large number of false positives)
 
 
+## Summary
+Non of the algorithms were very useful in predicting the high risk credit cards because of the low precision, however the Easy Ensemble Clasiffier might be useful to detect the high risk credit cards because of the high recall of .92 which shows a low number of false negetives depending on the thresholds set by the credit card company for the summary scores this might be useful. 
