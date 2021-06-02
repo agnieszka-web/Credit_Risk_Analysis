@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 ## Overview:
 To use different algorithms to train and evaluate credit card risk with unbalanced classification problem.
 
